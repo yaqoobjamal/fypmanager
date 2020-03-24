@@ -1,0 +1,14 @@
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\bin\Debug\FYPMANAGERFINAL.exe.config
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\bin\Debug\FYPMANAGERFINAL.exe
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\bin\Debug\FYPMANAGERFINAL.pdb
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.csprojAssemblyReference.cache
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.Login.resources
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.Properties.Resources.resources
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.student.resources
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.Teacher.resources
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.T_AddProject.resources
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.csproj.GenerateResource.cache
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.csproj.CoreCompileInputs.cache
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.exe
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.pdb
+C:\Users\yaqoo\OneDrive\Desktop\FYPMANAGERFINAL\FYPMANAGERFINAL\obj\Debug\FYPMANAGERFINAL.AddGroupMembers.resources
